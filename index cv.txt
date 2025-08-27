@@ -2,7 +2,8 @@
 <html lang="it">
 <head>
 <meta charset="UTF-8">
-<title>CV Federica V. Arcangeli</title>
+<title><embed src="v_arcangeli_federica_docente_formatore.pdf" type="application/pdf">
+</title>
 <style>
 html, body {
 height: 100%;
@@ -19,3 +20,4 @@ border: none;
 <embed src="v arcangeli federica docente formatore.pdf" type="application/pdf">
 </body>
 </html>
+
