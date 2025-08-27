@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>CV Federica V. Arcangeli</title>
+<style>
+html, body {
+height: 100%;
+margin: 0;
+}
+embed {
+width: 100%;
+height: 100%;
+border: none;
+}
+</style>
+</head>
+<body>
+<embed src="v arcangeli federica docente formatore.pdf" type="application/pdf">
+</body>
+</html>
